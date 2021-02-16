@@ -8,7 +8,7 @@
 🌱 CurrentlyLearning () <br>
 { 
   <br>
-  Full Stack Web technologies, such as: Node.js, Angular.js, .Net 5, Express.js, MongoDB
+  Full Stack Web technologies, such as: Node.js, Angular.js, .Net 5/MVC, Express.js, MongoDB
   <br>
   Being Exposed to and having a good understanding of: HTML, CSS, JS, TypeScript, C#.
   <br>
