@@ -19,8 +19,6 @@
   <br>
   Email: kylejlamont@hotmail.com
   <br>
-  Phone: 0429968862
-  <br>
 }
 
 //Check out my portfolio branch:
