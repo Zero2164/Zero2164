@@ -1,8 +1,18 @@
+---
+title: "README.Rmd"
+author: Kyle Lamont
+date: 30/08/2021
+output:
+  html_document:
+    includes:
+      in_header: header.html
+---
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/Zero2164">
-    <img style="border-radius:50%;" src="https://image.flaticon.com/icons/png/512/1828/1828673.png" alt="Logo" width="100" height="100">
+    <img style="border-radius:50%;" src="https://image.flaticon.com/icons/png/512/1828/1828673.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Welcome to Kyle's Github!</h3>
@@ -74,7 +84,7 @@
 
 ###  Connect with me
 
-<!-- Images provided by: https://www.flaticon.com/ -->
+
 [<img alt="email" width="60px" src="https://image.flaticon.com/icons/png/512/552/552486.png" />](mailto:kylejlamont@hotmail.com)
 
 [<img alt="linkedIn" width="60px" src="https://image.flaticon.com/icons/png/512/185/185964.png" />][linkedin]
@@ -82,5 +92,8 @@
 </div>
 
 
+
 <!-- MARKDOWN LINKS -->
 [linkedin]: https://www.linkedin.com/in/kylelamont2164/
+
+<!-- Icon Images provided by: https://www.flaticon.com/ -->
