@@ -1,13 +1,3 @@
----
-title: "README"
-author: Kyle Lamont
-date: 30/08/2021
-output:
-  rmarkdown::github_document:
-    includes:
-      in_header: header.html
----
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
