@@ -3,7 +3,7 @@ title: "README.Rmd"
 author: Kyle Lamont
 date: 30/08/2021
 output:
-  html_document:
+  rmarkdown::github_document:
     includes:
       in_header: header.html
 ---
