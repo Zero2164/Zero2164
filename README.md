@@ -50,21 +50,21 @@ Portfolio Link: [Portfolio](https://github.com/Zero2164/KylePortfolio)
 ## My Repositories
 #### Portfolio Repo:
   <p #portfolio-repo>
-    If you would like an indepth look into my portfolio building process please see my repo below:
+    If you would like an indepth look into my portfolio code:
     <br>
     <a href="https://github.com/Zero2164/KylePortfolio">Portfolio Repo</a>
   </p>
 
 #### Sandbox-Code:
   <p #Sandbox-Code>
-    A place to store all of the "tried and tested" code/projects, repo link below:
+    A place to store all of the "tried and tested" code/projects:
     <br>
     <a href="https://github.com/Zero2164/Sandbox-Code">Sandbox-Code Repo</a>
   </p>
 
 #### Tutorials-LearnToCode:
   <p #Tutorials-LearnToCode>
-    If you would like to see some of the tutorials I have taken please see the below repo:
+    A collection of code-based tutorials I have completed:
     <br>
     <a href="https://github.com/Zero2164/Tutorials-LearnToCode">Tutorials-LearnToCode Repo</a>
   </p>
@@ -79,9 +79,6 @@ Portfolio Link: [Portfolio](https://github.com/Zero2164/KylePortfolio)
   [<img alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />](mailto:kylejlamont@hotmail.com)
 
   [<img alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
 
 </div>
 
