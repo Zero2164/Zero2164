@@ -74,13 +74,11 @@
 
 ###  Connect with me
 
-  [<img alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />](mailto:kylejlamont@hotmail.com)
+[<img alt="email" width="60px" src="https://image.flaticon.com/icons/png/512/552/552486.png" />](mailto:kylejlamont@hotmail.com)
 
-  [<img alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="linkedIn" width="60px" src="https://image.flaticon.com/icons/png/512/185/185964.png" />][linkedin]
 
 </div>
-
-
 
 
 <!-- MARKDOWN LINKS -->
