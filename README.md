@@ -43,7 +43,7 @@
   <p #Portfolio>
   A hosted interactive web portfolio built with Angular to view my coding journey.
   <br>
-  <a href="https://github.com/Zero2164/KylePortfolio">Portfolio Repo</a>
+  <a href="https://github.com/Zero2164/KylePortfolio">Portfolio Repo <strong>website_under_construction</strong></a>
 
   </p>
 
