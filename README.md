@@ -1,6 +1,3 @@
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -22,10 +19,10 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#Portfolio">My Portfolio</a>
+      <a href="#Portfolio">Portfolio</a>
     </li>
     <li>
-      <a href="#My-Repositories">My Repositories</a>
+      <a href="#Repositories">Repositories</a>
       <ul>
         <li><a href="#portfolio-repo">Portfolio Repo</a></li>
         <li><a href="#Sandbox-Code">Sandbox-Code</a></li>
@@ -48,7 +45,7 @@
   </p>
 
 <!-- Repos -->
-## My Repositories
+## Repositories
 #### Portfolio Repo:
   <p #portfolio-repo>
     If you would like an indepth look into my portfolio code:
@@ -77,9 +74,9 @@
 
 ###  Connect with me
 
-  [<img style="color:blue;" alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />](mailto:kylejlamont@hotmail.com)
+  [<img alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />](mailto:kylejlamont@hotmail.com)
 
-  [<img color="blue" alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </div>
 
@@ -87,4 +84,4 @@
 
 
 <!-- MARKDOWN LINKS -->
-[linkedin]: https://linkedin.com/in/Zero2164
+[linkedin]: https://www.linkedin.com/in/kylelamont2164/
