@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Zero2164">
-    <img style="border-radius:50%;" src="https://images.unsplash.com/photo-1532012197267-da84d127e765?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="Logo" width="100" height="100">
+    <img style="border-radius:50%;" src="https://image.flaticon.com/icons/png/512/1828/1828673.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Welcome to Kyle's Github!</h3>
@@ -74,6 +74,7 @@
 
 ###  Connect with me
 
+<!-- Images provided by: https://www.flaticon.com/ -->
 [<img alt="email" width="60px" src="https://image.flaticon.com/icons/png/512/552/552486.png" />](mailto:kylejlamont@hotmail.com)
 
 [<img alt="linkedIn" width="60px" src="https://image.flaticon.com/icons/png/512/185/185964.png" />][linkedin]
