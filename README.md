@@ -41,10 +41,11 @@
 <!-- Portfolio -->
 ## Portfolio
   <p #Portfolio>
-    As stated above, I enjoy creating a good user experience, which you can see for yourself via the below link:
-  </p>
+  A hosted interactive web portfolio built with Angular to view my coding journey.
+  <br>
+  <a href="https://github.com/Zero2164/KylePortfolio">Portfolio Repo</a>
 
-Portfolio Link: [Portfolio](https://github.com/Zero2164/KylePortfolio)
+  </p>
 
 <!-- Repos -->
 ## My Repositories
@@ -76,9 +77,9 @@ Portfolio Link: [Portfolio](https://github.com/Zero2164/KylePortfolio)
 
 ###  Connect with me
 
-  [<img alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />](mailto:kylejlamont@hotmail.com)
+  [<img style="color:blue;" alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />](mailto:kylejlamont@hotmail.com)
 
-  [<img alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img color="blue" alt="linkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </div>
 
