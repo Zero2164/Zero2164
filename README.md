@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Zero2164">
-    <img style="border-radius:50%;" src="https://image.flaticon.com/icons/png/512/1828/1828673.png" alt="Logo" width="80" height="80">
+    <img style="border-radius:50%;" src="https://cdn-icons-png.flaticon.com/512/1828/1828673.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Welcome to Kyle's Github!</h3>
@@ -35,23 +35,9 @@
   </ol>
 </details>
 
-<!-- Portfolio -->
-## Portfolio
-  <p #Portfolio>
-  A hosted interactive web portfolio built with Angular to view my coding journey.
-  <br>
-  <a href="https://github.com/Zero2164/KylePortfolio">Portfolio Repo </a> | ** <strong>website_under_construction</strong> **
-
-  </p>
 
 <!-- Repos -->
 ## Repositories
-#### Portfolio Repo:
-  <p #portfolio-repo>
-    If you would like an indepth look into my portfolio code:
-    <br>
-    <a href="https://github.com/Zero2164/KylePortfolio">Portfolio Repo</a>
-  </p>
 
 #### Sandbox-Code:
   <p #Sandbox-Code>
@@ -75,9 +61,9 @@
 ###  Connect with me
 
 
-[<img alt="email" width="60px" src="https://image.flaticon.com/icons/png/512/552/552486.png" />](mailto:kylejlamont@hotmail.com)
+[<img alt="email" width="60px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />](mailto:kylejlamont+github@hotmail.com)
 
-[<img alt="linkedIn" width="60px" src="https://image.flaticon.com/icons/png/512/185/185964.png" />][linkedin]
+[<img alt="linkedIn" width="60px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670129.png?token=exp=1658316368~hmac=75d1171a8e5d641fe8f1aa3313e6c276" />][linkedin]
 
 </div>
 
