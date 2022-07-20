@@ -19,12 +19,8 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#Portfolio">Portfolio</a>
-    </li>
-    <li>
       <a href="#Repositories">Repositories</a>
       <ul>
-        <li><a href="#portfolio-repo">Portfolio Repo</a></li>
         <li><a href="#Sandbox-Code">Sandbox-Code</a></li>
         <li><a href="#Tutorials-LearnToCode">Tutorials-LearnToCode</a></li>
       </ul>
@@ -60,10 +56,12 @@
 
 ###  Connect with me
 
+[<img style="text-align: justify" alt="linkedIn" width="60px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670129.png?token=exp=1658316368~hmac=75d1171a8e5d641fe8f1aa3313e6c276" />][linkedin]
+  
+[<img style="text-align: justify" alt="email" width="60px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />](mailto:kylejlamont+github@hotmail.com)
 
-[<img alt="email" width="60px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />](mailto:kylejlamont+github@hotmail.com)
 
-[<img alt="linkedIn" width="60px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670129.png?token=exp=1658316368~hmac=75d1171a8e5d641fe8f1aa3313e6c276" />][linkedin]
+
 
 </div>
 
