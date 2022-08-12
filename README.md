@@ -38,7 +38,10 @@
 
  <h2>Connect with me</h2>
  
-[![LinkedIn - @Kyle Lamont](https://img.shields.io/badge/LinkedIn-@Kyle_Lamont-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kyle-lamont-a72326152) [![Email - @KyleJLamont](https://img.shields.io/badge/Email-%40KyleJLamont-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kylejlamont+github@hotmail.com)
+ 
+<a  href="www.linkedin.com/in/kyle-lamont-a72326152"><img width="100px" src='https://cdn-icons-png.flaticon.com/512/185/185964.png' alt='k_linkedin'/></a> <a href="mailto:kylejlamont+github@hotmail.com"><img width="100px" src='https://cdn-icons-png.flaticon.com/512/552/552486.png' alt='k_email'/></a>
+
+
 
 
 </div>
