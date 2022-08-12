@@ -39,7 +39,7 @@
  <h2>Connect with me</h2>
  
  
-<a  href="https://www.linkedin.com/in/kyle-lamont-a72326152"><img width="80px" src='https://cdn-icons-png.flaticon.com/512/1383/1383262.png' alt='k_linkedin'/></a> [<img width="80px" src='https://cdn-icons-png.flaticon.com/512/3447/3447695.png' alt='k_email'/>](mailto:kylejlamont+github@hotmail.com)
+<a  href="https://www.linkedin.com/in/kyle-lamont-a72326152"><img width="80px" src='https://cdn-icons-png.flaticon.com/512/1383/1383262.png' alt='k_linkedin'/></a> [<img width="80px" src='https://cdn-icons-png.flaticon.com/512/3447/3447695.png' alt='k_email'/>](mailto:kylejlamont@hotmail.com)
 
 
 
