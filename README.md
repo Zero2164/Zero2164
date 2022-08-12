@@ -1,17 +1,17 @@
 <!-- PROJECT LOGO -->
 <br />
-<p  align="center">
+<div align="center">
 <a href="https://github.com/Zero2164/Zero2164"><img width="260px" src='https://i.postimg.cc/9ftSxC9h/gitlogo.png' border='0' alt='gitlogo'/></a>
-
-</p>
-
-<!-- BADGES -->
-
- 
-
 <br>
 
-<div align="center">
+
+
+<!-- Latest -->
+ <h2>Latest Projects</h2>
+ 
+[![Latest - Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://)  [![Latest - Update Todo List](https://img.shields.io/badge/Latest-Update_Todo_List-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://)
+
+
 <!-- Repos -->
  <h2>Repositories</h2>
 
@@ -29,7 +29,7 @@
     <br>
   </p>
   
-[![repo - Code Tutorials](https://img.shields.io/static/v1?label=repo&message=Code+Tutorials&color=orange&style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Zero2164/Tutorials-LearnToCode)
+[![repo - Code Tutorials](https://img.shields.io/static/v1?label=repo&message=Code+Tutorials&color=green&style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Zero2164/Tutorials-LearnToCode)
   
 <br>
 
