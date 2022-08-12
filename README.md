@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p  align="center">
-<a href="https://github.com/Zero2164/Zero2164"><img src='https://i.postimg.cc/9ftSxC9h/gitlogo.png' border='0' alt='gitlogo'/></a>
+<a href="https://github.com/Zero2164/Zero2164"><img width="260px" src='https://i.postimg.cc/9ftSxC9h/gitlogo.png' border='0' alt='gitlogo'/></a>
 
 </p>
 
@@ -39,7 +39,7 @@
  <h2>Connect with me</h2>
  
  
-<a  href="https://www.linkedin.com/in/kyle-lamont-a72326152"><img width="80px" src='https://cdn-icons-png.flaticon.com/512/1383/1383262.png' alt='k_linkedin'/></a> [<img width="80px" src='https://cdn-icons-png.flaticon.com/512/3447/3447695.png' alt='k_email'/>](mailto:kylejlamont@hotmail.com)
+<a  href="https://www.linkedin.com/in/kyle-lamont-a72326152"><img width="80px" src='https://cdn-icons-png.flaticon.com/512/1383/1383262.png' alt='k_linkedin'/></a> [<img width="80px" src='https://cdn-icons-png.flaticon.com/512/3447/3447695.png' alt='k_email'/>](mailto:kylejlamont+github@hotmail.com)
 
 
 
