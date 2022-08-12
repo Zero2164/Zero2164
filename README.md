@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<a href="https://github.com/Zero2164/Zero2164"><img width="260px" src='https://i.postimg.cc/9ftSxC9h/gitlogo.png' border='0' alt='gitlogo'/></a>
+<a href="https://github.com/Zero2164"><img width="260px" src='https://i.postimg.cc/9ftSxC9h/gitlogo.png' border='0' alt='gitlogo'/></a>
 <br>
 
 
