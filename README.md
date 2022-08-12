@@ -9,7 +9,7 @@
 <!-- Latest -->
  <h2>Latest Projects</h2>
  
-[![Latest - Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://)  [![Latest - Update Todo List](https://img.shields.io/badge/Latest-Update_Todo_List-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://)
+[![Latest - Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/Zero2164/Sandbox-Code/tree/count-down-timer) [![Latest - Update Todo List](https://img.shields.io/badge/Latest-Update_Todo_List-orange?style=for-the-badge&logo=firebase&logoColor=white)]([https://](https://github.com/Zero2164/Sandbox-Code/tree/python-scripts/stable))
 
 
 <!-- Repos -->
