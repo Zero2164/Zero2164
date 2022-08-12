@@ -1,19 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/Zero2164">
-    <img style="border-radius:50%;" src="https://cdn-icons-png.flaticon.com/512/1828/1828673.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Welcome to Kyle's Github!</h3>
-
-  <p align="center">
-    I enjoy creating user experiences through a variety of different platforms.
-  </p>
+<p  align="center">
+<a href="https://github.com/Zero2164/Zero2164"><img src='https://i.postimg.cc/rFMPHJ7x/klogo.png' border='0' alt='klogo' /></a>
 </p>
 
+<!-- BADGES -->
 
-
+ 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -55,19 +48,10 @@
 <div align="center">
 
 ###  Connect with me
-
-[<img style="text-align: justify" alt="linkedIn" width="60px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670129.png?token=exp=1658316368~hmac=75d1171a8e5d641fe8f1aa3313e6c276" />][linkedin]
-  
-[<img style="text-align: justify" alt="email" width="60px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />](mailto:kylejlamont+github@hotmail.com)
-
-
+[![LinkedIn - @Kyle Lamont](https://img.shields.io/badge/LinkedIn-@Kyle_Lamont-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kyle-lamont-a72326152) [![Email - @KyleJLamont](https://img.shields.io/badge/Email-%40KyleJLamont-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kylejlamont+github@hotmail.com)
 
 
 </div>
 
-
-
-<!-- MARKDOWN LINKS -->
-[linkedin]: https://www.linkedin.com/in/kylelamont2164/
 
 <!-- Icon Images provided by: https://www.flaticon.com/ -->
