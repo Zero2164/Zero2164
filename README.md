@@ -26,11 +26,11 @@
 
 
 
-### Sandbox-Code
+### Code Challenges
 
-##### Sandpit to test and have fun with code
+##### Challenges I've mucked in on
 
-[![repo - Sandbox-Code](https://img.shields.io/badge/Repo-Sandbox--Code-100000?style=for-the-badge&logo=Codepen&logoColor=white&color=Eedf51)](https://github.com/Zero2164/Sandbox-Code)
+[![repo - Frontend-Challenges](https://img.shields.io/badge/Repo-Frontend--Challenges-100000?style=for-the-badge&logo=Codepen&logoColor=white&color=Eedf51)](https://github.com/Zero2164/Frontend-Challenges)
 
 
 ### Learning
