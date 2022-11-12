@@ -16,7 +16,7 @@
 
 ### Projects
 
-##### More or less a sandpit for projects large and small
+##### More or less a sandpit for all my projects large and small
 
 [![repo - Frontend-Projects](https://img.shields.io/badge/Repo-Frontend_Projects-100000?style=for-the-badge&logo=HTML5&logoColor=white&color=00C878)](https://github.com/Zero2164/Frontend-Projects) 
 [![repo - Python-Projects](https://img.shields.io/badge/Repo-Python_Projects-100000?style=for-the-badge&logo=Python&logoColor=white&color=00C878)](https://github.com/Zero2164/Python-Projects) 
@@ -35,7 +35,7 @@
 
 ### Learning
 
-##### Coding courses I'm learning
+##### Coding courses / tutorials I've taken part in
   
 [![repo - Coursera-Courses](https://img.shields.io/badge/Repo-Coursera_Courses-100000?style=for-the-badge&logo=Coursera&logoColor=white&color=268694)](https://github.com/Zero2164/Coursera-Learning) 
 [![repo - Udemy-Courses](https://img.shields.io/badge/Repo-Udemy_Courses-100000?style=for-the-badge&logo=Udemy&logoColor=white&color=268694)](https://github.com/Zero2164/Udemy-Learning)
