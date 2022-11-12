@@ -16,7 +16,7 @@
 
 ### Projects
 
-##### Various projects I'm working on
+##### More or less a sandpit for projects large and small
 
 [![repo - Frontend-Projects](https://img.shields.io/badge/Repo-Frontend_Projects-100000?style=for-the-badge&logo=HTML5&logoColor=white&color=00C878)](https://github.com/Zero2164/Frontend-Projects) 
 [![repo - Python-Projects](https://img.shields.io/badge/Repo-Python_Projects-100000?style=for-the-badge&logo=Python&logoColor=white&color=00C878)](https://github.com/Zero2164/Python-Projects) 
