@@ -7,7 +7,7 @@
 <!-- Latest -->
  <h2>Latest Projects</h2>
  
-[![Latest - Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white&color=orange)](https://github.com/Zero2164/Frontend-Projects/tree/main/countdown_timer) 
+[![Latest - Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white&color=orange)](https://github.com/Zero2164/HTML-CSS-JS-Projects/tree/main/countdown_timer) 
 [![Latest - Todoist Task Exporter](https://img.shields.io/badge/Latest-Todoist_Task_Exporter-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/Zero2164/Python-Projects/tree/main/todolist_manager)
 
 <!-- Repos -->
