@@ -18,7 +18,7 @@
 
 ##### More or less a sandpit for all my projects large and small
 
-[![repo - Frontend-Projects](https://img.shields.io/badge/Repo-Frontend_Projects-100000?style=for-the-badge&logo=HTML5&logoColor=white&color=00C878)](https://github.com/Zero2164/Frontend-Projects) 
+[![repo - HTML-CSS-JS-Projects](https://img.shields.io/badge/Repo-HTML_CSS_JS_Projects-100000?style=for-the-badge&logo=HTML5&logoColor=white&color=00C878)](https://github.com/Zero2164/HTML-CSS-JS-Projects) 
 [![repo - Python-Projects](https://img.shields.io/badge/Repo-Python_Projects-100000?style=for-the-badge&logo=Python&logoColor=white&color=00C878)](https://github.com/Zero2164/Python-Projects) 
 [![repo - Powershell-Projects](https://img.shields.io/badge/Repo-Powershell_Projects-100000?style=for-the-badge&logo=Powershell&logoColor=white&color=00C878)](https://github.com/Zero2164/Powershell-Projects)
 
