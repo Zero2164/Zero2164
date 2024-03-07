@@ -41,7 +41,7 @@
 [![repo - Coursera-Courses](https://img.shields.io/badge/Repo-Coursera_Courses-100000?style=for-the-badge&logo=Coursera&logoColor=white&color=268694)](https://github.com/Zero2164/Coursera-Learning) 
 [![repo - Udemy-Courses](https://img.shields.io/badge/Repo-Udemy_Courses-100000?style=for-the-badge&logo=Udemy&logoColor=white&color=268694)](https://github.com/Zero2164/Udemy-Learning)
 [![repo - Youtube-Courses](https://img.shields.io/badge/Repo-Youtube_Courses-100000?style=for-the-badge&logo=Youtube&logoColor=white&color=268694)](https://github.com/Zero2164/Youtube-Learning)
-  
+[![repo - CodeWars](https://img.shields.io/badge/Repo-CodeWars_Challenges-100000?style=for-the-badge&logo=codewars&logoColor=white&color=268694)](https://github.com/Zero2164/codewars)
 <br>
 
 <!-- CONTACT ME -->
