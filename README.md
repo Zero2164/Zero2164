@@ -6,9 +6,13 @@
 
 <!-- Latest -->
  <h2>Latest Projects</h2>
- 
-[![Latest - Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white&color=orange)](https://github.com/Zero2164/HTML-CSS-JS-Projects/tree/main/countdown_timer) 
-[![Latest - Todoist Task Exporter](https://img.shields.io/badge/Latest-Todoist_Task_Exporter-orange?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/Zero2164/Python-Projects/tree/main/todolist_manager)
+
+[![Latest - Fetch n' Convert - Currency Exchange Fetch & Convert](https://img.shields.io/badge/Latest-Fetch_n_Convert-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zero2164/currency-exchange-rate-fetch-n-convert/)
+[![Fetch n' Convert](https://github.com/Zero2164/currency-exchange-rate-fetch-n-convert/actions/workflows/pages/pages-build-deployment/badge.svg?branch=static-app)](https://github.com/Zero2164/currency-exchange-rate-fetch-n-convert/actions/workflows/pages/pages-build-deployment)
+<br>
+[![Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white&color=orange)](https://github.com/Zero2164/HTML-CSS-JS-Projects/tree/main/countdown_timer) 
+
+
 
 <!-- Repos -->
  <h2>Repositories</h2>
