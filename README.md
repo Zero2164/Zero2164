@@ -18,8 +18,9 @@
 
 
 
-<h2 id="expDetails">Professional Portfolio: SecOps Automation and Custom Python and Frontend Development</h2>
+<h2 id="expDetails">Professional Portfolio</h2>
 
+#### **SecOps Automation and Custom Python and Frontend Development**
 Throughout my career, I have consistently focused on streamlining SecOps processes through automation and custom development. My expertise in building scalable security platforms, integrating multiple security tools, and automating manual workflows has enhanced operational efficiency and delivered measurable financial savings. Whether working with **Swimlane**, **InsightConnect**, or **custom Python scripts / frontend tools like HTML, CSS & Javascript**, my goal is to provide solutions that drive value for security teams while simplifying their operations.
 
 
@@ -32,13 +33,13 @@ Throughout my career, I have consistently focused on streamlining SecOps process
 Prior to my work with Swimlane, I gained valuable experience in automating processes using Rapid7 InsightConnect. This experience laid the groundwork for my later automation efforts, with a focus on simplifying and improving alerting processes for a Managed Security Service Provider (MSSP).
 #### **Key Contributions**
 
-#### Alerting Stack Simplification 
+- **Alerting Stack Simplification**
 Streamlined multi-country/suspicious authentication alerting by integrating various threat intelligence sources (e.g., whois lookups, threat feeds) and security tools such as Secure Web Gateway (SWG). Built automation workflows that compared incoming alerts against these sources, automatically disabling suspicious user accounts when necessary.
 
-#### Automation and Integration
+- **Automation and Integration**
 Leveraged APIs to automate workflows across multiple customers, deploying custom solutions for each. This required extensive testing, deployment, and administration of InsightConnect tooling.
 
-#### User Interaction Automation
+- **User Interaction Automation**
 Developed automated user interaction workflows to handle customer outreach in the event of suspicious activity, ensuring prompt responses and reducing the manual workload on SOC teams.
 
 #### **Challenges and Solutions**
@@ -84,7 +85,8 @@ During my time as a Security Engineer, I played a key role in developing and opt
 <br>
 
 <details>
-<summary style="font-size:18px; color:#03A9F4"><strong>Relevant Python and Development Skills</strong></summary>
+<summary style="font-size:18px; color:#03A9F4"><strong>Python & Dev
+Tool Experience</strong></summary>
 
 #### **Python Development**  
 - **Custom Python API Plugins**  
