@@ -110,7 +110,7 @@ During my time as a Security Engineer, I played a key role in developing and opt
 <br>
 <br>
 
-<div align="center">
+
 <h2>Latest Hobby Projects</h2>
 
 [![Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white&color=orange)](https://github.com/Zero2164/HTML-CSS-JS-Projects/tree/main/countdown_timer) 
@@ -150,11 +150,9 @@ During my time as a Security Engineer, I played a key role in developing and opt
 [![repo - Youtube-Courses](https://img.shields.io/badge/Repo-Youtube_Courses-100000?style=for-the-badge&logo=Youtube&logoColor=white&color=268694)](https://github.com/Zero2164/Youtube-Learning)
 [![repo - CodeWars](https://img.shields.io/badge/Repo-CodeWars_Challenges-100000?style=for-the-badge&logo=codewars&logoColor=white&color=268694)](https://github.com/Zero2164/codewars)
 <br>
-
+<div align="center">
 <!-- CONTACT ME -->
-
- <h2>Connect with me</h2>
- 
+<h2>Connect with me</h2>
  
 [<img width="60px" src='https://cdn-icons-png.flaticon.com/512/1383/1383262.png' alt='k_linkedin'/>](https://www.linkedin.com/in/kyle-lamont-a72326152)///////
 [<img width="60px" src='https://cdn-icons-png.flaticon.com/512/3447/3447695.png' alt='k_email'/>](mailto:kylejlamont@hotmail.com)///////
