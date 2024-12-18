@@ -112,6 +112,10 @@ Tool Experience</strong></summary>
 <br>
 <br>
 
+<!-- TryHackMe -->
+![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)
+
+
 
 <h2>Latest Hobby Projects</h2>
 
