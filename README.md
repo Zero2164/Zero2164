@@ -115,8 +115,6 @@ Tool Experience</strong></summary>
 <!-- TryHackMe -->
 ![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)
 
-
-
 <h2>Latest Hobby Projects</h2>
 
 [![Count Down Timer](https://img.shields.io/badge/Latest-Count_Down_Timer-orange?style=for-the-badge&logo=firebase&logoColor=white&color=orange)](https://github.com/Zero2164/HTML-CSS-JS-Projects/tree/main/countdown_timer) 
