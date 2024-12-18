@@ -1,6 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C38&background=16FF2F00&multiline=true&width=435&height=70&lines=Hi+I'm+Kyle+(a.k.a.+Zero2164);Welcome+to+my+Github+space!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C38&background=16FF2F00&multiline=true&width=435&height=70&lines=Hi+I'm+Kyle+(a.k.a.+Zero2164);Welcome+to+my+Github+space!)](https://github.com/Zero2164/Zero2164)
 
 <br>
 Dynamic and results-driven professional with a robust background in customer service, DevSecOps, and security engineering. I am eager to leverage my strong problem-solving skills and technical expertise in a specialised role to further develop my programming abilities. As a versatile hybrid worker, I excel in both collaborative team environments and autonomous settings, consistently delivering success in all roles. 
