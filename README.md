@@ -1,20 +1,14 @@
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C38&background=16FF2F00&multiline=true&width=435&height=70&lines=Hi+I'm+Kyle+(a.k.a.+Zero2164);Welcome+to+my+Github+space!)](https://github.com/Zero2164/Zero2164)
 
-<br>
 Dynamic and results-driven professional with a robust background in customer service, DevSecOps, and security engineering. I am eager to leverage my strong problem-solving skills and technical expertise in a specialised role to further develop my programming abilities. As a versatile hybrid worker, I excel in both collaborative team environments and autonomous settings, consistently delivering success in all roles. 
 <br>
 <br>
 
-<!-- TryHackMe -->
-#### THM Badge
-![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)
-
-
-#### Connect with me on my Socials
+#### Connect with me on LinkedIn
 <a href="https://www.linkedin.com/in/kyle-lamont-a72326152"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 
 
@@ -47,5 +41,8 @@ Dynamic and results-driven professional with a robust background in customer ser
 [![repo - CodeWars](https://img.shields.io/badge/Repo-CodeWars_Challenges-100000?style=for-the-badge&logo=codewars&logoColor=white&color=268694)](https://github.com/Zero2164/codewars)
 <br>
 
+---
+<!-- TryHackMe -->
+<a href="https://www.linkedin.com/in/kyle-lamont-a72326152">![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)</a>
 
 <!-- Icon Images provided by: https://www.flaticon.com/ -->
