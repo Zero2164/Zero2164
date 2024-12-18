@@ -8,7 +8,7 @@ Dynamic and results-driven professional with a robust background in customer ser
 <br>
 
 <!-- TryHackMe -->
-#### CTF and Hacking Profiles (Had to create new profiles since leaving my old company)
+#### THM Badge
 ![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)
 
 
