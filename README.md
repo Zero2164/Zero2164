@@ -43,6 +43,6 @@ Dynamic and results-driven professional with a robust background in customer ser
 
 ---
 <!-- TryHackMe -->
-<a href="https://www.linkedin.com/in/kyle-lamont-a72326152">![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)</a>
+<a href="https://tryhackme.com/r/p/zer02164">![tryhackme stats](https://raw.githubusercontent.com/Zero2164/Zero2164/master/assets/thm_propic.png)</a>
 
 <!-- Icon Images provided by: https://www.flaticon.com/ -->
