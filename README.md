@@ -12,13 +12,12 @@ const kyle = {
   focus:
     "Building secure, automated systems that simplify team workloads.",
 
-  code: ["JavaScript", "TypeScript", "Python", "Go (learning)", "HTML", "CSS", "Bash"],
+  code: ["JavaScript", "TypeScript", "Python", "Go", "HTML", "CSS", "Bash", "Powershell"]
 
   tools: [
-    "Swimlane / Turbine",
+    "Swimlane / Turbine SDKs",
     "Node.js",
-    "Lit",
-    "Three.js",
+    "LitHtml",
     "React",
     "Ansible",
     "Docker",
@@ -32,18 +31,18 @@ const kyle = {
     "Solutions Architecture",
     "API integrations",
     "Secure-by-default design",
-    "Frontend component development"
+    "Frontend development"
   ],
 
   projects: {
     current: "Vyra - K8s - Go + TypeScript automation solution",
     personal: [
-      "Knucklebones Adaptaptation Local 2-player dice web game"
+      "Knucklebones Adaptaptation - Local 2-player dice web game"
     ]
   },
 
   challenge:
-    "Tackling an automation solution that will shake the cyber security industry."
+    "Crafting an automation solution that will shake the cyber security industry."
 };
 
 ```
