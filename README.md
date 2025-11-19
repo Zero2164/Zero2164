@@ -12,7 +12,7 @@ const kyle = {
   focus:
     "Building secure, automated systems that simplify team workloads.",
 
-  code: ["JavaScript", "TypeScript", "Python", "Go", "HTML", "CSS", "Bash", "Powershell"]
+  code: ["JavaScript", "TypeScript", "Python", "Go", "HTML", "CSS"]
 
   tools: [
     "Swimlane / Turbine SDKs",
@@ -22,7 +22,9 @@ const kyle = {
     "Ansible",
     "Docker",
     "Kubernetes",
-    "GitLab CI/CD"
+    "GitLab CI/CD",
+    "Bash/ZSH"
+    "Powershell"
   ],
 
   strengths: [
@@ -42,7 +44,7 @@ const kyle = {
   },
 
   challenge:
-    "Crafting an automation solution that will shake the cyber security industry."
+    "Crafting an automation solution that will shake the cyber industry."
 };
 
 ```
