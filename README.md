@@ -6,7 +6,7 @@
 
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C38&background=16FF2F00&multiline=true&width=435&height=70&lines=Hi+I'm+Kyle+(a.k.a.+Zero2164);Welcome+to+my+Github+space!)](https://github.com/Zero2164/Zero2164)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=88C0D0&background=16FF2F00&multiline=true&width=435&height=70&lines=Hi+I'm+Kyle+(a.k.a.+Zero2164);Welcome+to+my+Github+space!)](https://github.com/Zero2164/Zero2164)
 
 <p>Tackling tough problems and building systems that make life easier for teams is where my passion lies. There’s real satisfaction in untangling workflows, bringing tools together, and turning ideas into tangible results. My best work happens when curiosity meets a challenge and the impact is felt by everyone involved.</p>
 
