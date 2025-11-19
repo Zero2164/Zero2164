@@ -1,17 +1,51 @@
-<div align="right">
-  
-  <img width="200px" height="200px" src="./assets/coding.gif">
-  
-</div>
+<h2> Hi, I'm Kyle <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlrb2s3Ym05cnY1eXc0b2hqbzIzYjJsd3hiNnp3c21nbzFnaTVwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n3JlvCHL3d9DAPu/giphy.gif" width="30"></h2>
+<img align='right' src="./assets/coding.gif" width="230">
+<p>SOAR Engineer at <a href="https://sekuro.io/">Sekuro.io</a></br>SOAR Engineer at <a href="https://www.macquarie.com.au/">Macquarie Bank</a></p>
 
-<div align="left">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=88C0D0&background=16FF2F00&multiline=true&width=435&height=70&lines=Hi+I'm+Kyle+(a.k.a.+Zero2164);Welcome+to+my+Github+space!)](https://github.com/Zero2164/Zero2164)
+[![Linkedin: Kyle Lamont](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kyle-lamont-m3)](www.linkedin.com/in/kyle-lamont-m3)
+[![GitHub Zero2164](https://img.shields.io/github/followers/zero2164?label=follow&style=social)](https://github.com/Zero2164)
 
-<p>Tackling tough problems and building systems that make life easier for teams is where my passion lies. There’s real satisfaction in untangling workflows, bringing tools together, and turning ideas into tangible results. My best work happens when curiosity meets a challenge and the impact is felt by everyone involved.</p>
+```Javascript
+const kyle = {
+  focus:
+    "Building secure, automated systems that simplify team workloads.",
 
-  
-  #### Connect with me on LinkedIn
-  <a href="https://www.linkedin.com/in/kyle-lamont-a72326152"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  code: ["JavaScript", "TypeScript", "Python", "Go (learning)", "HTML", "CSS", "Bash"],
+
+  tools: [
+    "Swimlane / Turbine",
+    "Node.js",
+    "Lit",
+    "Three.js",
+    "React",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "GitLab CI/CD"
+  ],
+
+  strengths: [
+    "SOAR engineering",
+    "Workflow Orchestration",
+    "Solutions Architecture",
+    "API integrations",
+    "Secure-by-default design",
+    "Frontend component development"
+  ],
+
+  projects: {
+    current: "Vyra - K8s - Go + TypeScript automation solution",
+    personal: [
+      "Knucklebones Adaptaptation Local 2-player dice web game"
+    ]
+  },
+
+  challenge:
+    "Tackling an automation solution that will shake the cyber security industry."
+};
+
+```
+<br>
+<p>I’m all about building the <em><b>right tools</b></em> and the <em><b>right relationships</b></em>. If you’d like to connect, I’m always up for a conversation.</p>
 
 </div>
