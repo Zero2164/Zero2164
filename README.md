@@ -37,7 +37,7 @@ const kyle = {
   ],
 
   projects: {
-    current: "Vyra - K8s - Go + TypeScript automation solution",
+    current: "Vyra coming soon...",
     personal: [
       "Knucklebones Adaptaptation - Local 2-player dice web game"
     ]
