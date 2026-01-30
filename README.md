@@ -9,46 +9,30 @@
 
 ```Javascript
 const kyle = {
-  focus:
-    "Building secure, automated systems that simplify team workloads.",
-
-  code: ["JavaScript", "TypeScript", "Python", "Go", "HTML", "CSS"]
-
-  tools: [
-    "Swimlane / Turbine SDKs",
-    "Node.js",
-    "LitHtml",
-    "React",
+  focus: "Automate all the things.",
+  engineering: {
+    languages: ["JavaScript", "TypeScript", "Python", "Go", "Bash", "PowerShell"],
+    frontend: ["HTML", "CSS", "Lit", "React"],
+    backend_runtime: ["Node.js"],
+  },
+  builds_with: [
+    "Swimlane (SOAR) / Turbine SDK",
+    "GitLab CI/CD",
     "Ansible",
     "Docker",
     "Kubernetes",
-    "GitLab CI/CD",
-    "Bash/ZSH"
-    "Powershell"
+    "Linux environments",
+    "API-driven system integrations"
   ],
-
-  strengths: [
-    "SOAR engineering",
-    "Workflow Orchestration",
-    "Solutions Architecture",
-    "API integrations",
-    "Secure-by-default design",
-    "Frontend development"
-  ],
-
   projects: {
     current: "Vyra coming soon...",
-    personal: [
+    side_quests: [
       "Knucklebones Adaptaptation - Local 2-player dice web game"
     ]
   },
-
-  challenge:
-    "Crafting an automation solution that will shake the cyber industry."
 };
 
 ```
 <br>
-<p>I’m all about building the <em><b>right tools</b></em> and the <em><b>right relationships</b></em>. If you’d like to connect, I’m always up for a conversation.</p>
 
 </div>
