@@ -11,7 +11,14 @@
 const kyle = {
   focus: "Automate all the things.",
   engineering: {
-    languages: ["JavaScript", "TypeScript", "Python", "Go", "Bash", "PowerShell"],
+    languages: [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Go",
+      "Bash",
+      "PowerShell"
+    ],
     frontend: ["HTML", "CSS", "Lit", "React"],
     backend_runtime: ["Node.js"],
   },
